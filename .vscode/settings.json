@@ -1,0 +1,5 @@
+{
+  "prettier.proseWrap": "preserve",
+  "html.format.wrapLineLength": 100,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
